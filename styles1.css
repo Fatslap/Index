@@ -1,0 +1,28 @@
+p {
+
+Color:beige;
+}
+
+h1 {
+Color:Beige;
+}
+
+a{
+   Color:beige;
+Background-color:black;
+}
+
+a:hover {
+   color: blue;
+}
+
+a:visited {
+  Color:white;
+}
+
+a:active {
+  background-color:#265828;
+} 
+
+Body {background-color:Black;
+}

@@ -1,0 +1,33 @@
+p {
+
+color:white;
+}
+
+h1 {
+Color:#007FFF;
+}
+
+a{
+   Color:#007FFF;
+Background-color:black;
+}
+
+a:hover {
+   color: blue;
+}
+
+a:visited {
+  Color:white;
+}
+
+a:active {
+  Background-color:blue;
+} 
+
+Body {background-color:black;
+}
+
+#center {
+  margin-left: auto;
+  margin-right: auto;
+}

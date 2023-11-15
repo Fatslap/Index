@@ -1,0 +1,38 @@
+p{
+
+Color:Orange;
+}
+
+h1 {
+Color:Orange;
+}
+
+a{
+   Color:orange;
+Background-color:black;
+}
+
+a:hover {
+   color: blue;
+}
+
+a:visited {
+  color: white;
+}
+
+a:active {
+  background-color: white;
+} 
+
+Body {background-color:black;
+}
+
+#section {
+
+width:350px;
+
+Float:right;
+
+padding:10px;
+
+}
